@@ -41,9 +41,19 @@
 7. Skoðuð mögulega undirflokka í fréttum um náttúruvernd og reiknið tölfræði út frá undirflokkum svipað og að ofan, getið notað t.d. LDA sbr skjal í canvas.
 
 
+### Plan fyrir föstudag
+- Fara yfir verkefni þar sem lesnar voru fréttir
+- Ath gensim eða naive bayes frá sklearn
+- Lesa inn gögn
+- Skipta gögnum í train, val, test 80/10/10 eða train og test
+- Vista sem eigin skjöl
+- Vinna með lítið hlutmengi af train á meðan hlutir eru að komast af stað
 
 
 ## Hvað við höfum gert:
+
+
+
 
 Frá Vésteini:
 
