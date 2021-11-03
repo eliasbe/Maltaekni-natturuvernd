@@ -60,6 +60,7 @@ Gögn: https://drive.google.com/file/d/1guasFEBPY_xmJT8_TF27XYYNQvPFYOau/view?us
 ### Spurningar fyrir Véstein
 - Hvernig skal flokka (label-a)?
 - LDA - eta, virkar það okkur í hag?
+- Er naive lemmun nógu fáguð? Nota Greyni?
 
 ### Pælingar
 - Af hverju les Pandas inn færri fréttir?
