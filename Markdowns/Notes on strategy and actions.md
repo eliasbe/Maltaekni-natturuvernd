@@ -36,25 +36,34 @@ Gögn: https://drive.google.com/file/d/1guasFEBPY_xmJT8_TF27XYYNQvPFYOau/view?us
 
 4. Skoðið tölfræði í kringum hvernig fólk birtist í fréttunum.
 
-5. Notið sentiment tól ([https://huggingface.co/vesteinn/XLMR-ENIS-finetuned-sst2](htt
-6. ps://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhuggingface.co%2Fvesteinn%2FXLMR-ENIS-finetuned-sst2&data=04%7C01%7Cebe19%40hi.is%7Cbb8aeab6ceba4613f33308d992214ee7%7C09fa5f0e211846568529677ed8fdbe78%7C0%7C0%7C637701494022316438%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=X%2B2rwdu89q7S2dPPc0dgv%2BpX4GR0NS9TVMYHqUUH95g%3D&reserved=0 "Upprunaleg vefslóð: https://huggingface.co/vesteinn/XLMR-ENIS-finetuned-sst2. Smelltu eða pikkaðu ef þú treystir þessum tengli.")) á setningar í fréttunum, reiknið sentiment nálægt því þar sem nafn kemur fyrir. Takið saman tölfræði út frá nöfnum.  
+5. Notið sentiment tól 
+	1. ([https://huggingface.co/vesteinn/XLMR-ENIS-finetuned-sst2](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhuggingface.co%2Fvesteinn%2FXLMR-ENIS-finetuned-sst2&data=04%7C01%7Cebe19%40hi.is%7Cbb8aeab6ceba4613f33308d992214ee7%7C09fa5f0e211846568529677ed8fdbe78%7C0%7C0%7C637701494022316438%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=X%2B2rwdu89q7S2dPPc0dgv%2BpX4GR0NS9TVMYHqUUH95g%3D&reserved=0 "Upprunaleg vefslóð: https://huggingface.co/vesteinn/XLMR-ENIS-finetuned-sst2. Smelltu eða pikkaðu ef þú treystir þessum tengli.")) 
+	2. á setningar í fréttunum, reiknið sentiment nálægt því þar sem nafn kemur fyrir. Takið saman tölfræði út frá nöfnum.  
 
 6. Reiknið líka sentiment fyrir fréttir í heild og takið saman tölfræði.
 
 7. Skoðuð mögulega undirflokka í fréttum um náttúruvernd og reiknið tölfræði út frá undirflokkum svipað og að ofan, getið notað t.d. LDA sbr skjal í canvas.
 
 
-### Plan fyrir föstudag
-- Fara yfir verkefni þar sem lesnar voru fréttir
-- Ath gensim eða naive bayes frá sklearn
-- Lesa inn gögn
-- Skipta gögnum í train, val, test 80/10/10 eða train og test
-- Vista sem eigin skjöl?
-- Vinna með lítið hlutmengi af train á meðan hlutir eru að komast af stað
+### Plan
+- Flokka hluta af gögnum 'handvirkt'
+	- Testhluta sem verður ekki snertur
+	-  Trainhluta sem við notum til að kenna flokkara
+- Keyra LDA yfir nótt?
+	- Finna flokk sem inniheldur líklega náttúruvernd/loftslagsmál
+	- Finna flokka sem innihalda líklega ekki náttúruvernd/loftslagsmál
+	- Er ekki hægt að præma flokkana?
+	- Ath, bæta lemmun
+- Búa til flokkara ofan á Icebert (text classification notebook transformers)
+- Skrapa vef alþingis og bæjarstjórna
 
 ### Spurningar fyrir Véstein
-- Pandas góð hugmynd? Afhverju les það færri fréttir?
-- Bara train og test, validation set óþarft?
+- Hvernig skal flokka (label-a)?
+- LDA - eta, virkar það okkur í hag?
+
+### Pælingar
+- Af hverju les Pandas inn færri fréttir?
+- naive bayes
 
 
 ## Hvað við höfum gert:
