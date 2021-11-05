@@ -25,3 +25,9 @@ Við höfum einnig eytt tíma í samskipti við Unga Umhverfissinna til að nál
 ## Næstu skref
 
 Næst á dagskrá er eins og áður segir að merkja gögn handvirkt og koma upp flokkara byggðum á því sem getur með góðu móti flokkað fréttir í þær sem tengjast náttúruvernd og þær sem tengjast því ekki. Þann flokkara munum við bera saman við einfalt grunnlíkan sem við setjum upp. Einnig er á dagskrá að skrapa net Alþingis eða ganga í einhver gagnasöfn sem hafa nú þegar gert það. Við munum halda samskiptum okkar við fulltrúa Sólarinnar áfram í von um aðgang að gögnunum þeirra. LDA flokkarinn sem við notumst við núna notar ansi einfeldningslega lemmun og mögulega er ástæða til að gera það betur. 
+
+
+\
+Háskóla Íslands, 5. nóvember 2021 \
+Elías Bjartur Einarsson og Karl James Pestka
+
