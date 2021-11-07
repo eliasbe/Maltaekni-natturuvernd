@@ -1,1 +1,2 @@
 articles_until_01-11-2020_detok.tsv filter=lfs diff=lfs merge=lfs -text
+data_words filter=lfs diff=lfs merge=lfs -text
