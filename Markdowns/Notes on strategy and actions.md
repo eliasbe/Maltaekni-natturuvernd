@@ -59,11 +59,11 @@ Gögn: https://drive.google.com/file/d/1guasFEBPY_xmJT8_TF27XYYNQvPFYOau/view?us
 
 ### Spurningar fyrir Véstein
 - Hvernig skal flokka (label-a)?
-- LDA - eta, virkar það okkur í hag?
+- LDA - eta, er hægt að præma hópa með því?
 - Er naive lemmun nógu fáguð? Nota Greyni?
+- Hvernig meðhöndlar maður LDA líkanið, finnur hvaða fréttir eru hvar, Hversu margar eru í hverjum hóp – vantar smá demó.
 
-### Pælingar
-- Af hverju les Pandas inn færri fréttir?
+##  Pælingar
 - naive bayes
 
 
