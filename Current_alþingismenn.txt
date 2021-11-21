@@ -41,11 +41,11 @@ Kristrún Frostadóttir   Samfylkingin
 Lilja Alfreðsdóttir      Framsóknarflokkur
 Lilja Rannveig Sigurgeirsdóttir   Framsóknarflokkur
 Líneik Anna Sævarsdóttir   Framsóknarflokkur
-Logi Einarsso   Samfylkingin
-Njáll Trausti Friðbertsso   Sjálfstæðisflokkur
+Logi Einarsson   Samfylkingin
+Njáll Trausti Friðbertsson   Sjálfstæðisflokkur
 Oddný G Harðardótti   Samfylkingin
-Orri Páll Jóhannsso   Vinstrihreyfingin - grænt framboð
-Óli Björn Káraso   Sjálfstæðisflokkur
+Orri Páll Jóhannsson   Vinstrihreyfingin - grænt framboð
+Óli Björn Kárason   Sjálfstæðisflokkur
 Sigmar Guðmundsson   Viðreisn
 Sigmundur Davíð Gunnlaugsson   Miðflokkurinn
 Sigurður Ingi Jóhannsson   Framsóknarflokkur
@@ -57,7 +57,7 @@ Vilhjálmur Árnason    Sjálfstæðisflokkur
 Willum Þór Þórsson   Framsóknarflokkur
 Þorbjörg Sigríður Gunnlaugsdóttir   Viðreisn
 Þorgerður K Gunnarsdóttir   Viðreisn
-Þórarinn Ingi Pétursson Þór   Framsóknarflokkur
+Þórarinn Ingi Pétursson    Framsóknarflokkur
 Þórdís Kolbrún R Gylfadóttir   Sjálfstæðisflokkur
 Þórhildur Sunna Ævarsdóttir   Píratar
 Þórunn Sveinbjarnardóttir   Samfylkingin
