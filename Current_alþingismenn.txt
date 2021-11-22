@@ -23,7 +23,7 @@ Guðmundur Ingi Guðbrandsson   Vinstrihreyfingin - grænt framboð
 Guðmundur Ingi Kristinsson   Flokkur fólksins
 Guðrún Hafsteinsdóttir   Sjálfstæðisflokkur
 Hafdís Hrönn Hafsteinsdóttir   Framsóknarflokkur
-Halla Signý Kristjánsdóttir    Framsóknarflokkur
+Halla Signý Kristjánsdóttir   Framsóknarflokkur
 Halldóra Mogensen   Píratar
 Hanna Katrín Friðriksson   Viðreisn
 Haraldur Benediktsson   Sjálfstæðisflokkur
@@ -38,7 +38,7 @@ Jóhann Páll Jóhannsson   Samfylkingin
 Jón Gunnarsson   Sjálfstæðisflokkur
 Katrín Jakobsdóttir   Vinstrihreyfingin - grænt framboð
 Kristrún Frostadóttir   Samfylkingin
-Lilja Alfreðsdóttir      Framsóknarflokkur
+Lilja Alfreðsdóttir   Framsóknarflokkur
 Lilja Rannveig Sigurgeirsdóttir   Framsóknarflokkur
 Líneik Anna Sævarsdóttir   Framsóknarflokkur
 Logi Einarsson   Samfylkingin
@@ -53,11 +53,11 @@ Stefán Vagn Stefánsson   Framsóknarflokkur
 Steinunn Þóra Árnadóttir   Vinstrihreyfingin - grænt framboð
 Svandís Svavarsdóttir   Vinstrihreyfingin - grænt framboð
 Tómas A Tómasson   Flokkur fólksins
-Vilhjálmur Árnason    Sjálfstæðisflokkur
+Vilhjálmur Árnason   Sjálfstæðisflokkur
 Willum Þór Þórsson   Framsóknarflokkur
 Þorbjörg Sigríður Gunnlaugsdóttir   Viðreisn
 Þorgerður K Gunnarsdóttir   Viðreisn
-Þórarinn Ingi Pétursson    Framsóknarflokkur
+Þórarinn Ingi Pétursson   Framsóknarflokkur
 Þórdís Kolbrún R Gylfadóttir   Sjálfstæðisflokkur
 Þórhildur Sunna Ævarsdóttir   Píratar
 Þórunn Sveinbjarnardóttir   Samfylkingin
